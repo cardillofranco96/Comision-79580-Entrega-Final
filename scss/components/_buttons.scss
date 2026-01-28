@@ -1,0 +1,11 @@
+.btn-flama {
+  @include button-style($color-primary);
+}
+
+.btn-wsp {
+  @include button-style($color-secondary);
+}
+
+.btn-ig {
+  @include button-style(#e1306c);
+}
